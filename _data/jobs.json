@@ -9,20 +9,20 @@
     "company": "Boogle",
     "start_date": "01-02-2020",
     "end_date": "11-11-2020",
-    "description": "Researching the implementation of a conversational AI within the Boogle Assistant app, to avoid users from touching their phone during running."
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu."
   },
   {
     "function": "Blockchain Intern",
     "company": "Buttbook",
     "start_date": "01-08-2018",
     "end_date": "01-02-2019",
-    "description": "Performing research on the possibilities of Blockchain within the companies portfolio, providing an advisory report regarding and a basic prototype with Blockchain integration on an existing system.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu.",
   },
   {
     "function": "IT Support",
     "company": "Student in Kluis",
     "start_date": "01-08-2016",
     "end_date": "01-08-2018",
-    "description": "Solving IT issues regarding vaults at the customers location.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu.",
   }
 ]
