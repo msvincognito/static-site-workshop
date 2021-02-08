@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Drawing Recognition",
+    "stakeholders": "DEEPLEARNING4J",
+    "link": "http://www.google.com",
+    "start_date": "01-01-2021",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu. "
+  },
+  {
+    "title": "Lanvas Nudging AI",
+    "stakeholders": "Bontys University",
+    "start_date": "01-11-2019",
+    "end_date": "01-02-2020",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu. "
+  },
+  {
+    "title": "Frightened Flowers - Glow Eindhoven 2019",
+    "stakeholders": "Glow & Bontys University",
+    "start_date": "01-09-2020",
+    "end_date": "01-12-2020",
+  },
+  {
+    "title": "Rekeningrijden / Road Pricing",
+    "stakeholders": "Bontys University",
+    "start_date": "01-02-2019",
+    "end_date": "15-06-2019",
+  },
+  {
+    "title": "HoJo - International Project",
+    "stakeholders": "Poulu University & Bontys University",
+    "start_date": "01-01-2018",
+    "end_date": "15-06-2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu. ",
+  },
+  {
+    "title": "Blockchain & Open Badges",
+    "stakeholders": "Turf & Bontys University",
+    "start_date": "01-01-2018",
+    "end_date": "15-06-2018",
+  },
+  {
+    "title": "Comboman The Game",
+    "stakeholders": "Bontys University",
+    "start_date": "01-08-2017",
+    "end_date": "01-01-2018",
+  },
+  {
+    "title": "Curema",
+    "stakeholders": "Open Source",
+    "start_date": "01-08-2017",
+    "end_date": "01-01-2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu. ",
+  }
+
+]

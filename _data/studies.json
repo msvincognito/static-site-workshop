@@ -1,0 +1,22 @@
+[
+  {
+    "course": "Data Science & Artificial Intelligence",
+    "school": "Maasrecht University",
+    "degree": "Bachelor's Degree",
+    "start_date": "01-09-2020"
+  },
+  {
+    "course": "Software Engineering & Open Innovation",
+    "school": "Bontys University of Applied Sciences",
+    "degree": "Bachelor's Degree",
+    "start_date": "01-08-2016",
+    "end_date": "11-11-2020",
+  },
+  {
+    "course": "Hyperledge Fabric - Blockchain",
+    "school": "EDX & Udemy",
+    "start_date": "01-01-2018",
+    "end_date": "01-04-2018",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce semper condimentum mattis. Nam hendrerit massa faucibus enim luctus, in vestibulum nibh semper. Donec ut nulla dolor. Mauris condimentum egestas eros. Curabitur sit amet lorem sed nisl interdum elementum ut vitae enim. Pellentesque feugiat volutpat rutrum. Proin at dapibus felis, vel venenatis magna. Proin tempus augue quis mauris euismod, sed egestas mi sagittis. Ut accumsan faucibus nisi a ultricies. Quisque at eleifend arcu."
+  }
+]
