@@ -3,6 +3,11 @@
 This template uses the [jekyll-bootstrap-resume-theme](https://github.com/nscharrenberg/jekyll-bootstrap-resume).
 Specifics on the theme (such as the required data structures) can be found on that repository readme.
 
+This workshop is split into 2 sections:
+1. Basic Workshop (explained below) - Explains the basic usage of Jekyll. You don't need to know anything about programming, but it's a plus if you know git and basic programming.
+2. [Advanced Workshop](https://github.com/msvincognito/static-site-workshop/wiki/Advanced-Static-Website-Generation) - Goes much more indepth and lets you create a website from scratch (or create your own gem-based theme). We expect you to know basic programming and terminal. (Preferably HTML, CSS, JS).
+
+
 Below we'll discuss the steps you have to take to get this template working on your own github-pages (repository/website).
 
 ## Step 1 - Clone this repository.
