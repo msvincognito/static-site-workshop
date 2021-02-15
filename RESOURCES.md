@@ -9,16 +9,18 @@ there are _many_ more static site generators to choose from. [Here  you can see 
 
 Static site generators differ in their goals and programming languages they're
 written in. For some examples:
- - [Jekyll](https://jekyllrb.com/) puts a big focus on making blogs work. It's
-   written in Ruby.
+ - [Jekyll](https://jekyllrb.com/) puts a big focus on making blogs work, but it's
+   quite flexible otherwise as well. It's written in Ruby. [Theme gallery](https://jekyllthemes.io/)
  - [Hugo](https://gohugo.io/) is designed with flexibility in mind, and is often used
    for e.g. company websites. It's written in Go. [Theme gallery](https://themes.gohugo.io/)
  - [MkDocs](https://www.mkdocs.org/) makes it very easy to write documentation for
-   projects. It's written in Python.
+   projects. It's written in Python. [Theme
+   gallery](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
  - [Pelican](https://blog.getpelican.com/) is another blog-aware static site gen.
-   It's written in Python.
+   It's written in Python. [Theme gallery](http://www.pelicanthemes.com/)
  - [Zola](https://www.getzola.org/) is a minimalistic static site gen, once again
-   with a focus on blogs. It's written in Rust.
+   with a focus on blogs. It's written in Rust. [Theme
+   gallery](https://www.getzola.org/themes/)
 
 The process to use custom static site generators differs between GitLab and GitHub.
 
