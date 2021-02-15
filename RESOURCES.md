@@ -5,10 +5,28 @@ repository with the resources added to this file.
 
 ## More static site generators
 This workshop contains instructions on how to set up a site with Jekyll. However,
-there are _many_ more static site generators to choose from.
+there are _many_ more static site generators to choose from. [Here  you can see an extensive list of static site generators](https://jamstack.org/generators/).
 
- - [Extensive list of static site generators](https://jamstack.org/generators/)
- 
+Static site generators differ in their goals and programming languages they're
+written in. For some examples:
+ - [Jekyll](https://jekyllrb.com/) puts a big focus on making blogs work. It's
+   written in Ruby.
+ - [Hugo](https://gohugo.io/) is designed with flexibility in mind, and is often used
+   for e.g. company websites. It's written in Go. [Theme gallery](https://themes.gohugo.io/)
+ - [MkDocs](https://www.mkdocs.org/) makes it very easy to write documentation for
+   projects. It's written in Python.
+ - [Pelican](https://blog.getpelican.com/) is another blog-aware static site gen.
+   It's written in Python.
+ - [Zola](https://www.getzola.org/) is a minimalistic static site gen, once again
+   with a focus on blogs. It's written in Rust.
+
+The process to use custom static site generators differs between GitLab and GitHub.
+
+### GitLab
+Some examples:
+ - [The Math Soc SIG site](https://maasmath.eu/) uses its own custom Zola template.
+   [Repository](https://gitlab.com/maasmath/site)
+
 ## HTML, CSS and Javascript
 To build your own templates and to give your site a a fully personalized feel, it's
 generally necessary to dive into HTML, CSS and Javascript. Here are some helpful
