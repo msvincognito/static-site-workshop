@@ -76,7 +76,7 @@ url: "https://mydomain.com"
 ### 3.1 Details
 We want to change some important details that will make your site be about you.
 Open `_config.yml`, here we need to change a couple of items:
-1. `title` Change the `Your awesome title` to whatever you want to name your website. (This is what SEOs and search engines will display your website as, so pick carefully e.g `Portfolio Noah Scharrenberg`.
+1. `title` Change the title to whatever you want to name your website. (This is what SEOs and search engines will display your website as, so pick carefully e.g `Portfolio Noah Scharrenberg`.
 2. `email` and `portfolio.info.email`
 3. `description` Change this to whatever website description you want. SEOs and search engines will likely use this to display a short piece of text when being displayed in e.g google.
 4. `baseurl` and `url` were discussed in Step `2`.
