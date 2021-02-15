@@ -25,9 +25,12 @@ written in. For some examples:
 The process to use custom static site generators differs between GitLab and GitHub.
 
 ### GitLab
+Check out [this walkthrough](https://gitlab.com/p-skaisgiris/incognito-website-workshop) for setting up [Hugo](https://gohugo.io/) (and [hello-friend-ng](https://themes.gohugo.io/hugo-theme-hello-friend-ng/) theme).
+
 Some examples:
  - [The Math Soc SIG site](https://maasmath.eu/) uses its own custom Zola template.
    [Repository](https://gitlab.com/maasmath/site)
+ - [NLP project website](https://p-skaisgiris.gitlab.io/ina-website/) uses Hugo and [Hermit](https://themes.gohugo.io/hermit/) theme. [Repository](https://gitlab.com/p-skaisgiris/ina-website)
 
 ## HTML, CSS and Javascript
 To build your own templates and to give your site a a fully personalized feel, it's
