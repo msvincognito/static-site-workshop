@@ -16,14 +16,14 @@ You can then go through the normal repository creation by giving it a repository
 
 When done you can click the green button saying `Create Repository from template`.
 
-HINT: Naming your repository `<your-username>.github.io` e.g `nscharrenberg.github.io` will make the website visible on that domain, else it'll be placed inside a subdirectory such as `<your-username>.github.io/<your-repository-name>`, e.g `nscharrenberg.github.io/static-site-workshop`.
+HINT: Naming your repository `<your-username>.github.io` e.g `msvincognito.github.io` will make the website visible on that domain, else it'll be placed inside a subdirectory such as `<your-username>.github.io/<your-repository-name>`, e.g `msvincognito.github.io/static-site-workshop`.
 
 NOTE: Your github-pages website will always be accessible, no matter your repository visibility.
 
 ## Step 2 - Setup Github Actions
 If you would want your website to be deployed to github-pages each time you make a change to your master branch, then you'll need to do some additional permission/authorization steps.
 
-First create a `personal-access-token` on github with scope "repo", [follow the guide provided by github](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) and copy the given access token. 
+First create a `personal-access-token` on github with scope "repo" (For private repositories) and "public" (for public repositories), [follow the guide provided by github](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) and copy the given access token. 
 
 Then go to your Github repository Settings, and open the "Secrets" tab, then create a new secret and name it `JEKYLL_PAT`, and paste the `personal-access-token` that you copied to the value. Then save this, and now whenever you make a change to your master branch, an action will be started to make a new build of your website and deploy it to your github-pages site.
 
@@ -48,13 +48,13 @@ In case we have a custom domain such as `mydomain.com/resume`) then we need to c
 In case your repository is not `<your-username>.github.io` where `<your-username>` is your github username, then we need to change `baseurl: ""` to `baseurl: "/<your-repository-name>"`, where `<your-repository-name>` is the name of your repository. e.g `baseurl: "/static-site-workshop"`.
 
 #### Examples
-URL: nscharrenberg.github.io
+URL: msvincognito.github.io
 ```yaml
 baseurl: ""
 url: ""
 ```
 
-URL: nscharrenberg.github.io/static-site-workshop
+URL: msvincognito.github.io/static-site-workshop
 ```yaml
 baseurl: "/static-site-workshop"
 url: ""
@@ -388,5 +388,5 @@ If you do not know you github-pages url, then go to `settings` and scroll down u
 When your website has been published, you should see a green bar that displays your website url.
 The text looks something like:
 ```
- Your site is published at https://nscharrenberg.github.io/static-site-workshop/
+ Your site is published at https://msvincognito.github.io/static-site-workshop/
 ```
