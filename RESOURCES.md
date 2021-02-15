@@ -28,6 +28,16 @@ The process to use custom static site generators differs between GitLab and GitH
 Some examples:
  - [The Math Soc SIG site](https://maasmath.eu/) uses its own custom Zola template.
    [Repository](https://gitlab.com/maasmath/site)
+ - [A very minimalistic MkDocs example](https://k-cybulski.gitlab.io/mkdocs-example/)
+   on GitLab Pages. You can compare this to a similar example for GitHub Pages listed
+   in the `GitHub` section: [Repository](https://gitlab.com/k-cybulski/mkdocs-example)
+
+### GitHub
+Some examples:
+ - [A very minimalistic MkDocs example](https://k-cybulski.github.io/mkdocs-example/)
+   on GitHub Pages. You can compare it to a similar example for GitLab pages listed
+   in the `GitLab` section:
+   [Repository](https://github.com/k-cybulski/mkdocs-example)
 
 ## HTML, CSS and Javascript
 To build your own templates and to give your site a a fully personalized feel, it's
