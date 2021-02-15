@@ -33,10 +33,11 @@ Some examples:
  - [A very minimalistic MkDocs example](https://k-cybulski.gitlab.io/mkdocs-example/)
    on GitLab Pages. You can compare this to a similar example for GitHub Pages listed
    in the `GitHub` section: [Repository](https://gitlab.com/k-cybulski/mkdocs-example)
+ - [NLP project website](https://p-skaisgiris.gitlab.io/ina-website/) uses Hugo and [Hermit](https://themes.gohugo.io/hermit/) theme. [Repository](https://gitlab.com/p-skaisgiris/ina-website)
 
 ### GitHub
 Some examples:
- - [NLP project website](https://p-skaisgiris.gitlab.io/ina-website/) uses Hugo and [Hermit](https://themes.gohugo.io/hermit/) theme. [Repository](https://gitlab.com/p-skaisgiris/ina-website)
+
  - [A very minimalistic MkDocs example](https://k-cybulski.github.io/mkdocs-example/)
    on GitHub Pages. You can compare it to a similar example for GitLab pages listed
    in the `GitLab` section:
