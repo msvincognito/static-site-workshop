@@ -11,7 +11,7 @@ This workshop is split into 2 sections:
 Below we'll discuss the steps you have to take to get this template working on your own github-pages (repository/website).
 
 ## Step 1 - Clone this repository.
-We made this repository available as a template. You can press the green button saying `Use this template`.
+We made this repository available as a template. You can press the green button saying `Use this template` at the top right of this page.
 You can then go through the normal repository creation by giving it a repository name, description and setting it to either public or private.
 
 When done you can click the green button saying `Create Repository from template`.
@@ -21,15 +21,18 @@ HINT: Naming your repository `<your-username>.github.io` e.g `nscharrenberg.gith
 NOTE: Your github-pages website will always be accessible, no matter your repository visibility.
 
 ## Step 2 - Setup Github Actions
-If you would want your website to be deployed to github-pages, each time you make a change to your master branch, then you'll need to do some additional permission/authorization steps.
+If you would want your website to be deployed to github-pages each time you make a change to your master branch, then you'll need to do some additional permission/authorization steps.
 
-First create a `personal-access-token` on github, [follow the guide provided by github](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) and copy the given access token.
+First create a `personal-access-token` on github with scope "repo", [follow the guide provided by github](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) and copy the given access token. 
 
-Then go to your github Settings, and open the "Secrets" tab, then create a new secret and name it `JEKYLL_PAT`, and paste the `personal-access-token` that you copied to the value. Then save this, and now whenever you make a change to your master branch, an action will be started to make a new build of your website and deploy it to your github-pages site.
+Then go to your Github repository Settings, and open the "Secrets" tab, then create a new secret and name it `JEKYLL_PAT`, and paste the `personal-access-token` that you copied to the value. Then save this, and now whenever you make a change to your master branch, an action will be started to make a new build of your website and deploy it to your github-pages site.
 
 NOTE: This process may take a couple of minutes.
 
 ### Extra Configuration (Custom Domains or subdomains)
+
+NOTE: For this workshop it's best **NOT** to use a custom domain, and to skip to Step 3.
+
 We need to make some additional changes when we are using a custom domain (e.g `mydomain.com`) or use a different repository name then `<your-username>.github.io` where `<your-username>` is your github username.
 
 Open the `_config.yml` file and change the items depending on the cases below:
@@ -68,8 +71,6 @@ URL: mydomain.com/resume
 baseurl: "/resume"
 url: "https://mydomain.com"
 ```
-
-HINT: For this workshop it's best to **NOT** use a custom domain.
 
 ## Step 3 - Changing the Profile Details & Image
 ### 3.1 Details
