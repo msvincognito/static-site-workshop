@@ -1,5 +1,7 @@
 # Jekyll Workshop - Create your own online portfolio!
 
+**Event video recording:** [link](https://nx17402.your-storageshare.de/s/b2g7e7zGdSezn3a)
+
 This template uses the [jekyll-bootstrap-resume-theme](https://github.com/nscharrenberg/jekyll-bootstrap-resume).
 Specifics on the theme (such as the required data structures) can be found on that repository readme.
 
