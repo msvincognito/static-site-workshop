@@ -311,7 +311,7 @@ Current Project with description:
     "stakeholders": "DEEPLEARNING4J",
     "link": "http://www.google.com",
     "start_date": "01-01-2021",
-    ""description": "Lorem ipsum"
+    "description": "Lorem ipsum"
   },
 ```
 NOTE: This example does not have an `end_date` key present.
@@ -324,7 +324,7 @@ Previous Project with description:
     "link": "http://www.google.com",
     "start_date": "01-01-2020",
     "end_date": "01-06-2020",
-    ""description": "Lorem ipsum"
+    "description": "Lorem ipsum"
   },
 ```
 
